@@ -1,0 +1,15 @@
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\bin\Debug\ManageAccountProject.exe.config
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\bin\Debug\ManageAccountProject.exe
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\bin\Debug\ManageAccountProject.pdb
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\bin\Debug\CommonModule.dll
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\bin\Debug\CommonModule.pdb
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\obj\Debug\ManageAccountProject.csproj.AssemblyReference.cache
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\obj\Debug\ManageAccountProject.Properties.Resources.resources
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\obj\Debug\ManageAccountProject.csproj.GenerateResource.cache
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\obj\Debug\ManageAccountProject.csproj.CoreCompileInputs.cache
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\obj\Debug\ManageAc.E953A8BA.Up2Date
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\obj\Debug\ManageAccountProject.exe
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\obj\Debug\ManageAccountProject.pdb
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\MyComputer\Desktop\study\ManageAccountProject\ManageAccountProject\obj\Debug\ManageAccountProject.main.resources
